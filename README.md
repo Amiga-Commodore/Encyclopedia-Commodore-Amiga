@@ -40,7 +40,7 @@ Mit Was wird es Entwickelt:
 
 https://upbge.org
 
-https://www.python.org
+Python
 
 Kontaktiert Mich:
 
