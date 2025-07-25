@@ -36,6 +36,17 @@ Ich bin ein Alleiniger Entwickler Namens Amiga der ein großer Commodore Amiga F
 habe ein Eigenes Spiel Studio Namens "Multimedia Enzyklopedie Studios"
 Das Möge Seltsam Klingen aber ist angelelehnt an Lernen,Multimedia und Spiele
 
+Das Logo:
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/61499e94-0f27-4bb0-852d-5ea78f1fb91c" />
+
+
+
+
+
+
+
+
 Mit Was wird es Entwickelt:
 
 www.upbge.org
