@@ -38,9 +38,9 @@ Das Möge Seltsam Klingen aber ist angelelehnt an Lernen,Multimedia und Spiele
 
 Mit Was wird es Entwickelt:
 
-https://upbge.org
+www.upbge.org
 
-https://www.python.org/
+www.python.org
 
 Kontaktiert Mich:
 
