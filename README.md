@@ -36,6 +36,11 @@ Ich bin ein Alleiniger Entwickler Namens Amiga der ein großer Commodore Amiga F
 habe ein Eigenes Spiel Studio Namens "Multimedia Enzyklopedie Studios"
 Das Möge Seltsam Klingen aber ist angelelehnt an Lernen,Multimedia und Spiele
 
+Mit Was wird es Entwickelt:
+
+UPBGE
+Python
+
 Kontaktiert Mich:
 
 multimediaenzyklopediestudios@gmail.com
