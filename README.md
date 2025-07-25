@@ -1,7 +1,7 @@
 Enzyklopedie Commodore
 
 Ist eine Basierte Version der Britischen Enzyklopedie auf dem Commodore Amiga CDTV der 1991 Erschien
-Das User Interface uind die Menüs werden Ähnlich sein und dass Spiel wird auch auf CD's Erscheinen und hat Einen Support für Alle Konsolen von Commodore Amiga
+Das User Interface und die Menüs werden Ähnlich sein und dass Spiel wird auch auf CD's Erscheinen und hat Einen Support für Alle Konsolen von Commodore Amiga
 
 Konsolen:
 
