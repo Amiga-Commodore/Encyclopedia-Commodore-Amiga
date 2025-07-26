@@ -21,6 +21,7 @@ Somit können viele Lesen man Kann aber auch Alltäglichen Spaß mit den Spielen
 Die Grafik:
 
 Die Grafik wird je nach System aufgeteilt
+
 Commodore Amiga CDTV: 16-Bit Grafik wie im Originalen
 
 Commodore Amiga CD32: 32-Bit mehr 3D auch für die Spiele
