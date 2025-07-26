@@ -46,7 +46,8 @@ Das Möge Seltsam Klingen aber es ist angelelehnt an Lernen,Multimedia und Spiel
 
 Das Logo:
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/61499e94-0f27-4bb0-852d-5ea78f1fb91c" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/7d6883ec-d4b9-42fe-9833-0b0c38e480c9" />
+
 
 
 
