@@ -40,7 +40,7 @@ PC (Computer) in 64-Bit, Heutige Grafik 1996-20XX
 
 Entwickler:
 
-Ich bin ein Alleiniger Entwickler Namens Amiga der ein großer Commodore Amiga Fan ist und
+Ich bin ein Alleiniger Entwickler Namens Amiga der ein großer Commodore Amiga Fan und Highscreen Fan ist und
 habe ein Eigenes Spiel Studio Namens "Multimedia Enzyklopedie Studios"
 Das Möge Seltsam Klingen aber es ist angelelehnt an Lernen,Multimedia und Spiele
 
