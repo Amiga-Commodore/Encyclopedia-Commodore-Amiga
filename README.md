@@ -6,7 +6,9 @@ Das User Interface und die Menüs werden Ähnlich sein und dass Spiel wird auch 
 Konsolen:
 
 Commodore Amiga CDTV
+
 Commodore Amiga CD32
+
 Es sind veraltete Konsole aber es wird einen Schönen Spaß für Familie und Freunde
 
 Worum Geht es:
@@ -20,14 +22,19 @@ Die Grafik:
 
 Die Grafik wird je nach System aufgeteilt
 Commodore Amiga CDTV: 16-Bit Grafik wie im Originalen
+
 Commodore Amiga CD32: 32-Bit mehr 3D auch für die Spiele
+
 PC (Computer): 64-Bit Grafik wie in der Heutigen Zeit
 
 Versionen:
 
 Wie Gesagt kommt es in Verschiedenen Versionen
+
 Commodore Amiga CDTV in 16-Bit, Pseudo 3D Grafik 1991-1993
+
 Commodore Amiga CD32 in 32-Bit, Frühe 3D Grafik 1993-1996
+
 PC (Computer) in 64-Bit, Heutige Grafik 1996-20XX
 
 Entwickler:
